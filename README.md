@@ -13,4 +13,4 @@ nothing to describe this man! i'm gonnna learn
 ***this is for both bold and italic
 you know why***
 
-[register here] (http://engineering.apssdc.in/register/)
+[register here](http://engineering.apssdc.in/register/)
