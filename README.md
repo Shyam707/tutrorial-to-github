@@ -16,3 +16,20 @@ you know why***
 [register here](http://engineering.apssdc.in/register/)
 
  ![paris life](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpyv_iBS2i3ZdvYGGZbCXsfIFF9CkQ_bfsjA&usqp=CAU)
+ 
+ * paris tour:
+   * eiffel tower
+   * glass library
+   * bunchingam palace
+   
+1. eg items:
+   1. mshroom
+   2. cbbage
+   3. tmato
+   4. aulifloawer
+                                   
+NAME|SCHOOL
+-----|-----
+KUMA|SRI
+SAN|CHA
+ENT|LA
