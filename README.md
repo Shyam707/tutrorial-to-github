@@ -1,6 +1,6 @@
 # tutrorial-to-github
 nothing to describe this man! i'm gonnna learn
-# inlude me man
+# include me man
 ## hi hello namaste 
 ### welcome to the git hub ka world
 *yo this git hub is cool man!* 
